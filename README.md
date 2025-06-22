@@ -14,7 +14,7 @@ Bu proje, **Ege bölgesindeki 25 odalı bir otel** için geliştirilmiş bir **r
 
 ## 🛠️ Kullanılan Teknolojiler
 
-- C# (.NET Framework)
+- C#
 - MSSQL (SQL Server)
 - Windows Forms
   
