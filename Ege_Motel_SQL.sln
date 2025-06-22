@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ege_Motel_SQL", "Ege_Motel_SQL\Ege_Motel_SQL.csproj", "{60BA61F3-8ABB-4183-87EF-43688E5A35C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60BA61F3-8ABB-4183-87EF-43688E5A35C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60BA61F3-8ABB-4183-87EF-43688E5A35C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60BA61F3-8ABB-4183-87EF-43688E5A35C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60BA61F3-8ABB-4183-87EF-43688E5A35C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79CF39E7-5BA4-4891-8E34-0162F28FDC27}
+	EndGlobalSection
+EndGlobal
